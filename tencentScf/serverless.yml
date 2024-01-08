@@ -40,4 +40,6 @@ inputs:
           argument: UnfollowBatched
   environment:
     variables: # 根据自己的需要修改
-      Ray_BiliBiliCookies__1: 123 # cookie，必填
+      Ray_BiliBiliCookies__1: buvid3=E32E2836-1DE3-6451-9031-EBC4A5C04B4781302infoc; b_nut=1691850181; _uuid=BFE3AF910-DA77-10A10A-C27B-1DEF5989DDF1080512infoc; header_theme_version=CLOSE; DedeUserID=320286040; DedeUserID__ckMd5=45130b0347ffeb37; rpdid=|(um|RkJmll|0J'uYmum~RumR; buvid_fp_plain=undefined; CURRENT_QUALITY=80; buvid4=30175903-2175-7978-CEE1-63CF0D92146783013-023081222-ReWFu%2Frfrwmr%2ButNoZE3BA%3D%3D; home_feed_column=5; enable_web_push=DISABLE; SESSDATA=3b9adab4%2C1713409563%2C29a7f%2Aa1CjCycClyeJFcy2Ey3pibzgTrAMKQL9QTrnLi42lXgt4iyqg3UuqHe1gxk9Wp726_eFoSVlFnSDBwRE9qN1VlMmMyZ3NTRktiM3p4THBVc1NsbEl5SmNhbjg1OFJnUFMyc0t6eGFDUldOTm9oUEFGVmpMajU3RnFPUXdfNGhCVUsyakg0eTNhdXh3IIEC; bili_jct=7f6b8bb94a1749a0cd957ee8d773a732; CURRENT_FNVAL=4048; browser_resolution=1536-722; bp_video_offset_320286040=882294593086816274; fingerprint=ec247815568a00cce66be23713c4a3f6; buvid_fp=d2e48d81c7f5111a073301eaf3f86be7; sid=7y4p087i; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDQ5NDI5OTQsImlhdCI6MTcwNDY4MzczNCwicGx0IjotMX0.KHqol3QNzm6ELgxDb4e5svf7Maz0XlPvWbQPe_xD1K8; bili_ticket_expires=1704942934; bsource=search_baidu; b_lsid=EE723142_18CE77790B8 # cookie，必填
+      Ray_Security__RandomSleepMaxMin: 20
+      Ray_Security__IntervalSecondsBetweenRequestApi: 20
